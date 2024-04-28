@@ -624,4 +624,4 @@ redefining-builtins-modules=six.moves,past.builtins,future.builtins,builtins,io
 
 # pylint_django configuration
 [pylint-django]
-django-settings-module=basic_setup.settings
+django-settings-module=receipt_label.settings

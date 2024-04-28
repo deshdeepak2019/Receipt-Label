@@ -1,5 +1,5 @@
 """
-ASGI config for basic_setup project.
+ASGI config for receipt_label project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "basic_setup.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "receipt_label.settings")
 
 application = get_asgi_application()
