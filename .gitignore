@@ -1,0 +1,6 @@
+*.sqlite3
+*.pyc
+*.egg-info
+venv
+__pycache__
+media
